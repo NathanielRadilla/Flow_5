@@ -1,0 +1,14 @@
+Api Key
+7f55d00322ba43319fc90aca1e1275ec
+
+Forma general de llamada API
+
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}&units=metric
+
+Coordenadas
+19.289589, -99.123005
+
+Forma personal de llamada API
+
+https://api.openweathermap.org/data/2.5/weather?lat=19.289589&lon=-99.123005&appid=7f55d00322ba43319fc90aca1e1275ec&units=metric
+
